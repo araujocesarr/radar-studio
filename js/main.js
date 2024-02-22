@@ -197,11 +197,11 @@ document.addEventListener("DOMContentLoaded", function () {
       ];
       const labels = [
         "home",
-        "Selected works",
-        "about me",
-        "services",
+        "works",
+        "about",
+        "divisions",
         "Outputs",
-        "get in touch",
+        "contact",
       ];
 
       function setLabel(index) {
