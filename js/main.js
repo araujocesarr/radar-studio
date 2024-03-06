@@ -290,7 +290,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("preloader").style.display = "none";
   }
 
-  setTimeout(disabledPreloader, 1200);
+  setTimeout(disabledPreloader, 50);
 
   $("a.fancybox").fancybox({
     type: "iframe",
